@@ -6,7 +6,7 @@ Welcome to the **DSA Daily Practice** repository! 📚💡 This repo contains ou
 
 This repository is maintained by:
 - **Muhammad Hateem Hussain** ([@hateem-hussain](https://github.com/hateem-hussain))
-- **Abida Shoukat** ([@abida_shoukat_14](https://github.com/abida_shoukat_14))
+- **Abida Shoukat** ([@abida_shoukat_14](https://github.com/abidashoukat14))
 
 ## 📌 Purpose
 
@@ -64,6 +64,6 @@ We will update this repository daily with the problems we solve. You can track o
 
 Feel free to reach out for discussions, collaborations, or suggestions:
 - **Muhammad Hateem Hussain** – [GitHub](https://github.com/hateem-hussain) | [LinkedIn](https://linkedin.com/in/hateem-hussain)
-- **Abida Shoukat** – [GitHub](https://github.com/abida_shoukat_14)
+- **Abida Shoukat** – [GitHub](https://github.com/abidashoukat14) | [LinkedIn](https://linkedin.com/in/hateem-hussain)
 
 Happy Coding! 🚀🔥
